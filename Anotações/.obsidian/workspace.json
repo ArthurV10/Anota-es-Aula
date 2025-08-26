@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "9eba6b8b74a9f921",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c1c2988c7e5c498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f8f4f56b647e039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4º Período/Programação para Internet II/Projeto de Diagnóstico (26-08-2025)/Anotações Organização.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anotações Organização"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64d838c161c8d1c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac334cc1d4d7c97d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e741ef66c6f55eb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8a063fd4cc4be962",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c56a49445ac90c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0c86dc6ba95471c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ad26aaf943f8f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a326a70d36b4c5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "00591c15dd7e4307",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ed4faaf7b0b2c990",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "958ecc9545e7cfe7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "e741ef66c6f55eb8",
+  "lastOpenFiles": [
+    "4º Período",
+    "4º Período/Tópicos Especiais de Programação",
+    "4º Período/Programação para Internet II/Projeto de Diagnóstico (26-08-2025)/Anotações Organização.md",
+    "4º Período/Programação para Internet II/Projeto de Diagnóstico (26-08-2025)",
+    "4º Período/Programação para Internet II",
+    "Untitled",
+    "desktop.ini",
+    "Welcome.md"
+  ]
+}
